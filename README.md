@@ -8,8 +8,8 @@
 # Thê HYPĒRMTKGÄÑG BØT
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-This is the one and only official HellBot Userbot made by [@Kraken_The_BadASS](https://t.me/kraken_the_badass) Also join support channel and group :- https://t.me/HellBot_Official Enjoy Your Bot!!💝
-[![HellBot logo](https://telegra.ph/file/2165457cc7e428ff64919.jpg)](https://t.me/hellbot_official)
+This is the one and only official HYPERMTKGANG Userbot made by [@UNKNOWN_MEMBER_69](https://t.me/UNKNOWN_MEMBER_69) Also join support channel and group :- https://t.me/HyperMTKGang Enjoy Your Bot!!💝
+[![HellBot logo](https://telegra.ph/file/2165457cc7e428ff64919.jpg)](https://t.me/HyperMTKGang)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
