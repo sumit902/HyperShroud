@@ -29,7 +29,6 @@ This is the one and only official HellBot Userbot made by [@Kraken_The_BadASS](h
 ## One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
 ## Official Support 💖
-<a href="https://t.me/HellBot_Official"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 <a href="https://t.me/HyperMTKGang"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## The Normal Way
