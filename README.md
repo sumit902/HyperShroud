@@ -23,7 +23,7 @@ This is the one and only official HellBot Userbot made by [@Kraken_The_BadASS](h
 
 ### The Easy Way
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/ahirearyan2/HyperMTKGang)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ahirearyan2/HyperMTKGang/)
 # Credits👀
 ### • [JaaduBot](https://github.com/Amberyt/JaaduBot)
 ## One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
