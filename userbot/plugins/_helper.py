@@ -5,7 +5,7 @@ from platform import uname
 import sys
 from telethon import events, functions, __version__
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Hell User"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "HyperMTKGang User"
 
 @command(pattern="^.help ?(.*)")
 #@borg.on(admin_cmd(pattern=r"help ?(.*)"))
@@ -16,7 +16,7 @@ async def cmd_list(event):
         if tgbotusername is None or input_str == "text":
             string = ""
             for i in CMD_LIST:
-                string += "⚡️" + i + "\n"
+                string += "☣" + i + "\n"
                 for iter_list in CMD_LIST[i]:
                     string += "    `" + str(iter_list) + "`"
                     string += "\n"
@@ -29,7 +29,7 @@ async def cmd_list(event):
                         out_file,
                         force_document=True,
                         allow_cache=False,
-                        caption="**COMMANDS** In HellBot",
+                        caption="**COMMANDS** In HyperShroudBot",
                         reply_to=reply_to_id
                     )
                     await event.delete()
@@ -73,7 +73,7 @@ async def _(event):
     result = await borg(functions.help.GetConfigRequest())  # pylint:disable=E0602
     result = result.stringify()
     logger.info(result)  # pylint:disable=E0602
-    await event.edit("""Telethon UserBot Powered by @HellBot_Official""")
+    await event.edit("""Telethon UserBot Powered By @HyperShroudBot""")
 
 
 @borg.on(admin_cmd(pattern="syntax (.*)"))
@@ -84,7 +84,7 @@ async def _(event):
 
     if plugin_name in CMD_LIST:
         help_string = CMD_LIST[plugin_name].__doc__
-        unload_string = f"Use `.unload {plugin_name}` to remove this plugin.\n           @HellBot_Official"
+        unload_string = f"Use `.unload {plugin_name}` to remove this plugin.\n           @NotShroudX97"
 
         if help_string:
             plugin_syntax = f"Syntax for plugin **{plugin_name}**:\n\n{help_string}\n{unload_string}"
